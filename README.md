@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="Spray Company">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="">
 </details>
 
 <details>
   <summary><b>Top Langs</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda" alt="Spray Company">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda" alt="">
 </details>
 
 <details>
   <summary><b>Graph</b></summary>
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fauziahmilda&theme=dracula" alt="Spray Company">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fauziahmilda&theme=dracula" alt="">
 </details>
