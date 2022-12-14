@@ -39,10 +39,14 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
 
 ### My Skill:
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/linkedin.png" alt="" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Google-flutter-logo.png" title = "Twitter" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Golang.png" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Node.js.png" alt="" height="30" /></a>
+<br>
+<br>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Adobe_Premiere.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Adobe_Illustrator.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/logo%20photoshop%20cc%20png.png" height="30" /></a>
 
 
 
