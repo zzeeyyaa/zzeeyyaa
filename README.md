@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 **Personal Stuffs:**
 - 🍌 - banana lovers
-- 🎨 - illustrator & graphic designer
-- 🌱 - like gardening
-- 🎮 - ugh yash
+- 🎨 - illustrator & graphic designer (Adobe Photoshop and mostly Adobe Illustrator)
+- 🌱 - fluent using Flutter, GetX
+- 🌱 - fluent using JavaScript >> NodeJS, ReactJS
+- 🌱 - currently learning GoLang
+- 🎮 - ugh yash: Valorant
 
 <details>
   <summary><b>My Github Stats</b></summary>
