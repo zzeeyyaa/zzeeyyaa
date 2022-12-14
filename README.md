@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
 
 **Personal Stuffs:**
-- 🍌 - banana lovers
-- 🎨 - illustrator & graphic designer (Adobe Photoshop and mostly Adobe Illustrator)
-- 🌱 - fluent using Flutter, GetX
-- 🌱 - fluent using JavaScript >> NodeJS, ReactJS
-- 🌱 - currently learning GoLang
-- 🎮 - ugh yash: Valorant
+- 🍌  banana lovers
+- 🎨  illustrator & graphic designer (Adobe Photoshop and mostly Adobe Illustrator)
+- 💜  fluent using Flutter, GetX
+- 💜  fluent using JavaScript >> NodeJS, ReactJS
+- 💜  currently learning GoLang
+- 🎮  ugh yash: Valorant
 
 <details>
   <summary><b>My Github Stats</b></summary>
