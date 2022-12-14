@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - ⚡  fluent using Flutter, GetX
 - ⚡  fluent using JavaScript >> NodeJS, ReactJS
 - 🌱  currently learning GoLang
-- 🎮  ugh yash: Valorant (still NOOB T_T yeah)
+- 🎮  ugh yash
 
+### Playing this game:
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>
 
 ### You guys can find me here:
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
