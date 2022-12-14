@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Top Langs</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&theme=tokyonight" alt="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&theme=radical" alt="">
 </details>
 
 <details>
   <summary><b>Graph</b></summary>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=dracula" alt="">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=radical" alt="">
 </details>
