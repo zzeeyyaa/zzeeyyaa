@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### Playing this game:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Sims_4.png" title = "Twitter" alt="" height="30" /></a>
+
 
 ### You guys can find me here:
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
