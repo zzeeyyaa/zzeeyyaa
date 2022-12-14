@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Graph</b></summary>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=radical" alt="">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=dracula" alt="">
 </details>
