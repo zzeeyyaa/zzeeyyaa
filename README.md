@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Node.js.png" alt="" height="30" /></a>
 <br>
 <br>
-<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Adobe_Premiere.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Adobe_Illustrator.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/logo%20photoshop%20cc%20png.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/illustrator.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/premiere-pro.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/photoshop.png" height="30" /></a>
 
 
 
