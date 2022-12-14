@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 - 🌱  currently learning GoLang
 - 🎮  ugh yash: Valorant (still NOOB T_T yeah)
 
+
+### Wanna chat me?
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+
+
 <details>
   <summary><b>My Github Stats</b></summary>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="">
