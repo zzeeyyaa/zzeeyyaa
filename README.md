@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
 
-### My Skill:
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Google-flutter-logo.png" title = "Twitter" alt="" height="30" /></a>
+### My Skills:
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/lockup_flutter_horizontal_wht.png" title = "Twitter" alt="" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Golang.png" alt="" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Node.js.png" alt="" height="30" /></a>
 <br>
