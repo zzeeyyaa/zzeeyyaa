@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Top Langs</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda" alt="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&theme=tokyonight" alt="">
 </details>
 
 <details>
