@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: like sleep a lot
 -->
 
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there, I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
 
 **Personal Stuffs:**
-- 🍌  banana lovers
+
+#### Beside Informatic Engineering Student,
+
 - 🎨  illustrator & graphic designer (Adobe Photoshop and mostly Adobe Illustrator)
 - ⚡  fluent using Flutter, GetX
 - ⚡  fluent using JavaScript >> NodeJS, ReactJS
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 - 🎮  ugh yash: Valorant (still NOOB T_T yeah)
 
 
-### Find me here:
+### You guys can find me here:
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
