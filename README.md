@@ -73,3 +73,7 @@ Here are some ideas to get you started:
   <summary><b>Graph</b></summary>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=dracula" alt="">
 </details>
+
+##
+
+![snake gif](https://github.com/fauziahmilda/fauziahmilda/blob/output/github-contribution-grid-snake.gif)
