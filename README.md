@@ -14,29 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-
+<img align="center" alt="GIF" height="210px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
 
-**Personal Stuffs:**
 
 #### Beside Informatic Engineering Student,
 
 - 🎨  illustrator & graphic designer (Adobe Photoshop and mostly Adobe Illustrator)
-- ⚡  fluent using Flutter, GetX
-- ⚡  fluent using JavaScript >> NodeJS, ReactJS
+- 👾  fluent using Flutter, GetX
+- ✨  fluent using JavaScript >> NodeJS, ReactJS
 - 🌱  currently learning GoLang
 - 🎮  ugh yash
-
-### Playing this game:
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Sims_4.png" title = "Twitter" alt="" height="30" /></a>
-
-
-### You guys can find me here:
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/linkedin.png" alt="" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
 
 ### My Skills:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/lockup_flutter_horizontal_wht.png" title = "Twitter" alt="" height="30" /></a>
@@ -48,6 +36,18 @@ Here are some ideas to get you started:
 <a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/premiere-pro.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/photoshop.png" height="30" /></a>
 
+### Also playing this game:
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Sims_4.png" title = "Twitter" alt="" height="30" /></a>
+
+### And you guys can find me here:
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/linkedin.png" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
+
+
+## 안녕 !!
 
 
 <details>
