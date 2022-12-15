@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="GIF"  width="100%" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/killjoy-valorant-killjoy.gif" />
 
-<img align="left" alt="GIF" height="200px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/kh-thumb3.png" style="padding-right: 20px; "/>
+<img align="left" alt="GIF" height="215px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/kh-thumb3.png" style="padding-right: 20px; "/>
 
 
 #### Beside Informatic Engineering Student,
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   &nbsp; ✨  Fluent using JavaScript >> NodeJS, ReactJS <br>
   &nbsp; 🌱  Currently learning GoLang <br>
   &nbsp; 🎮  Uugh yash <br>
-
+<br>
 ##
 
 ### My Skills:
