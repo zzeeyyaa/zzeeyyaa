@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Also playing this game:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/valorant.png" title = "Valorant" alt="" height="30" /></a>&nbsp;&nbsp;
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Sims_4.pngg" title = "The Sims 4" alt="" height="28" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Sims_4.png" title = "The Sims 4" alt="" height="28" /></a>
 
 ### Find me here:
 <a href="https://twitter.com/ffffzhh" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/twitter4.png" title = "Twitter" alt="" height="29" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
