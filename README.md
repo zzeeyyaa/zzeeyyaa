@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## 안녕 ﺃﻳﻬﺎ اﻟﻨﺎﺱ  ! . . . &nbsp; I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+
 <img align="center" alt="GIF" height="260px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
 
 <img align="left" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
@@ -63,11 +64,12 @@ Here are some ideas to get you started:
 ##
 
 <details>
-  <summary><b>Top Langs</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&theme=radical" alt="">
+  <summary><b>Most Used Languages</b></summary>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&layout=compact&langs_count=7&theme=radical"/>
 </details>
 
 ##
+
 
 <details>
   <summary><b>Graph</b></summary>
