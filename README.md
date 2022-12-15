@@ -28,24 +28,24 @@ Here are some ideas to get you started:
 - 🎮  ugh yash
 
 ### My Skills:
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/lockup_flutter_horizontal_wht.png" title = "Twitter" alt="" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Golang.png" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/lockup_flutter_horizontal_wht.png" alt="" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Golang.png" alt="" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Node.js.png" alt="" height="30" /></a>
 <br>
 <br>
-<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/illustrator.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/premiere-pro.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/illustrator.png" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/premiere-pro.png" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/photoshop.png" height="30" /></a>
 
 ### Also playing this game:
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/valorant.png" title = "Twitter" alt="" height="30" /></a>&nbsp;&nbsp;
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/Sims_4.png" title = "Twitter" alt="" height="30" /></a>
 
 ### And you guys can find me here:
-<a href="https://twitter.com/ffffzhh" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/twitter4.png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/linkedin.png" alt="" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
+<a href="https://twitter.com/ffffzhh" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/twitter4.png" title = "Twitter" alt="" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/linkedin.png" alt="" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord3.png" height="30" /></a>
 
 
 ## 안녕 <3
