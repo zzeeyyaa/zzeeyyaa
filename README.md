@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="GIF"  width="100%" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
 
-<img align="left" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
+<img align="left" alt="GIF" height="" width="15%" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
 
 
 #### Beside Informatic Engineering Student,
