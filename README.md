@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img align="center" alt="GIF" height="210px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
-<img align="right" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" />
+<img align="right" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
 
 
 
