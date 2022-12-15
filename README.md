@@ -20,18 +20,16 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
 
-<br>
 
 #### Beside Informatic Engineering Student,
-
-
+### 
   &nbsp; 🎨  Illustrator & Graphic designer <br>
   &nbsp; 👾  Fluent using Flutter, GetX <br>
   &nbsp; ✨  Fluent using JavaScript >> NodeJS, ReactJS <br>
   &nbsp; 🌱  Currently learning GoLang <br>
   &nbsp; 🎮  Uugh yash <br>
 
-<br>
+##
 
 ### My Skills:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/lockup_flutter_horizontal_wht.png" alt="" height="30" title ="Flutter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
