@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 
   &nbsp; 🎨  Illustrator & Graphic designer <br>
   &nbsp; 👾  Fluent using Flutter, GetX <br>
-  &nbsp; ✨  Fluent using JavaScript >> NodeJS, ReactJS <br>
+  &nbsp; ✨  Fluent using JavaScript, NodeJS<br>
   &nbsp; 🌱  Currently learning GoLang <br>
   &nbsp; 🎮  Uugh yash <br>
 <br><br>
