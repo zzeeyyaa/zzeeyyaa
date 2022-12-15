@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img align="center" alt="GIF" height="210px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
+<img align="right" alt="GIF" height="150" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumbs-up-valorant.gif" />
+
 
 
 #### Beside Informatic Engineering Student,
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/discord.png" height="30" /></a>
 
 
-## 안녕 !!
+## 안녕 <3
 
 
 <details>
