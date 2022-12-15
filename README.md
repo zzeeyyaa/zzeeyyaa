@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 안녕 ﺃﻳﻬﺎ اﻟﻨﺎﺱ  ! . . . &nbsp; I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-<img align="center" alt="GIF" height="260px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
+<img align="center" alt="GIF"  width="100%" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/killjoy-valorant-killjoy.gif" />
 
 <img align="left" alt="GIF" height="" width="150" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/thumb-kj_2.png" style="padding-right: 20px; "/>
 
