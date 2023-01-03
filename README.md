@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/linkedin.png" alt="" height="30" title = "LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/mildafauziah/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" title ="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/discord3.png" height="30" title = "Discord"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/mildafauziah" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Behance.png" alt="" height="30" title ="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.behance.net/mildafauziah" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Behance.png" alt="" height="35" title ="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ##
 
