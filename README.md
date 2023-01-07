@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   &nbsp; 👾  Fluent using Flutter, GetX <br>
   &nbsp; ✨  Fluent using JavaScript, NodeJS<br>
   &nbsp; 🌱  Currently learning GoLang <br>
+  &nbsp; 🌱  Currently learning Python <br>
   &nbsp; 🎮  Uugh yash <br>
 <br><br>
 ##
