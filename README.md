@@ -58,14 +58,16 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="">
+  
+  
 </details>
 
 ##
 
 <details>
   <summary><b>Most Used Languages</b></summary>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauziahmilda&layout=compact&langs_count=7&theme=radical"/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fauziahmilda&theme=radical&line_height=40&hide=css"/> </a>
 </details>
 
 ##
