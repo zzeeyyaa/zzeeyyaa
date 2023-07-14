@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fauziahmilda&show_icons=true&theme=radical" alt="">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzeeyyaa&show_icons=true&theme=radical" alt="">
   
   
 </details>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Most Used Languages</b></summary>
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fauziahmilda&theme=radical&line_height=40&hide=css"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzeeyyaa&theme=radical&line_height=40&hide=css"/> </a>
 </details>
 
 ##
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>Graph</b></summary>
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=fauziahmilda&theme=dracula" alt="">
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=zzeeyyaa&theme=dracula" alt="">
 </details>
 
 ##
