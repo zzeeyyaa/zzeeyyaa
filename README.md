@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: like sleep a lot
 -->
 
-## 안녕 ﺃﻳﻬﺎ اﻟﻨﺎﺱ  ! . . . &nbsp; I'm Zia ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## 안녕! . . . &nbsp; 나는 지아야 ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
+<!--
 <img align="center" alt="GIF"  width="100%" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/killjoy-valorant-killjoy.gif" />
 
 <img align="left" alt="GIF" height="225px" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/kh-thumb4.png" style="padding-right: 20px; "/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   &nbsp; 🎮  Uugh yash <br>
 <br><br>
 ##
-
+-->
 ### My Skills:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/lockup_flutter_horizontal_wht.png" alt="" height="30" title ="Flutter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Golang.png" alt="" height="25" title ="GoLang"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
