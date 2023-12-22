@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   &nbsp; 🌱  Currently learning GoLang <br>
   &nbsp; 🌱  Currently learning Python <br>
   &nbsp; 🎮  Uugh yash <br>
+  <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Golang.png" alt="" height="25" title ="GoLang"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
 ##
 -->
 ### My Skills:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/lockup_flutter_horizontal_wht.png" alt="" height="30" title ="Flutter"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Golang.png" alt="" height="25" title ="GoLang"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Node.js.png" alt="" height="30" title ="NodeJS" /></a>
 <br>
 <br>
