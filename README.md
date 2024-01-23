@@ -17,15 +17,15 @@
 <img src="https://github.com/zzeeyyaa/zzeeyyaa/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake" height="210">
 
 ### Take a break time:
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/valorant.png" title = "Valorant" alt="" height="30" /></a>&nbsp;&nbsp;
-<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Sims_4.png" title = "The Sims 4" alt="" height="28" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/valorant.png" title = "Valorant" alt="" height="25" /></a>&nbsp;&nbsp;
+<a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Sims_4.png" title = "The Sims 4" alt="" height="23" /></a>
 
 ### Find me here:
-<a href="https://twitter.com/ffffzhh" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/twitter4.png" title = "Twitter" alt="" height="29" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/linkedin.png" alt="" height="30" title = "LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/zzee-zvyqn/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" title ="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/discord3.png" height="30" title = "Discord"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.behance.net/zzeeyyaa" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Behance.png" alt="" height="35" title ="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ffffzhh" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/twitter4.png" title = "Twitter" alt="" height="22" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/m-fauziah/" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/linkedin.png" alt="" height="23" title = "LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/zzee-zvyqn/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="23" title ="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/utfCHndyQb" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/discord3.png" height="25" title = "Discord"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.behance.net/zzeeyyaa" target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/Behance.png" alt="" height="27" title ="Behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
