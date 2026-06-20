@@ -1,9 +1,9 @@
 ## 💜 안녕! . . . &nbsp; 나는 지아야 !
 
 <div>
-  <img align="center" height ="210" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzeeyyaa&theme=radical&line_height=40&hide=css"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" height ="210" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzeeyyaa&show_icons=true&theme=radical" alt="">
+  <img align="center" height ="210" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzeeyyaa&theme=radical&line_height=40&hide=css&cache_seconds=1800"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" height ="210" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zzeeyyaa&show_icons=true&theme=radical&cache_seconds=1800" alt="">
 </div>
 
 <!--
