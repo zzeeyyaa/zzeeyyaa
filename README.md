@@ -6,7 +6,7 @@
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/zzeeyyaa">
-  <img align="center" width="48%" src="http://localhost:3000/api/card/zzeeyyaa/languages?theme=lavender-dark&layout=affinity&langs_count=8&_t=1781982120697" alt="zzeeyyaa's Top Languages" />
+  <img align="center" width="48%" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa/languages?theme=lavender-dark&layout=affinity&langs_count=8&_t=1781982177423" alt="zzeeyyaa's Top Languages" />
 </a>
 </div>
 
