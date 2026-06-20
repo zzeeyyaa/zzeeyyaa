@@ -1,5 +1,4 @@
 name: generate profile assets
-
 on:
   schedule:
     - cron: "0 */12 * * *" 
@@ -8,7 +7,6 @@ on:
     branches:
     - main
     - master
-
 jobs:
   generate:
     permissions: 
@@ -19,7 +17,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       # STEP 1: Generate animasi Snake Game
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
@@ -28,14 +25,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
       # STEP 2: Generate Card 1 - GitHub Stats
       - name: generate github stats card
         uses: lowlighter/metrics@latest
         with:
-          # Ganti ini:
-          # token: ${{ secrets.GITHUB_TOKEN }}
-          # Menjadi ini:
           token: ${{ secrets.METRICS_TOKEN }}
           user: zzeeyyaa
           template: classic
@@ -43,14 +36,10 @@ jobs:
           config_timezone: Asia/Jakarta
           output_action: none
           filename: dist/github-stats.svg
-
       # STEP 3: Generate Card 2 - Top Languages (Bar Chart)
       - name: generate top languages card
         uses: lowlighter/metrics@latest
         with:
-          # Ganti ini juga:
-          # token: ${{ secrets.GITHUB_TOKEN }}
-          # Menjadi ini:
           token: ${{ secrets.METRICS_TOKEN }}
           user: zzeeyyaa
           template: classic
@@ -62,7 +51,9 @@ jobs:
           plugin_languages_limit: 8
           output_action: none
           filename: dist/github-top-langs.svg
-
+      # STEP 3.5: Debug - cek file svg apa aja yang ada di workspace
+      - name: Debug list svg files
+        run: find . -name "*.svg" -not -path "*/node_modules/*"
       # STEP 4: Push semua hasil (.svg) ke branch 'output'
       - name: push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
