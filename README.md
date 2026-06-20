@@ -4,7 +4,10 @@
 <a href="https://github.com/zzeeyyaa">
   <img align="center" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa?theme=dark-fairy&rpg=true&_t=1781976143265" alt="zzeeyyaa's GitHub Stats" />
 </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zzeeyyaa">
+  <img align="center" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa/languages?theme=dark-fairy&layout=affinity&langs_count=8&_t=1781976238657" alt="zzeeyyaa's Top Languages" />
+</a>
   <!-- <img align="center" height="210" src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-stats.svg" alt="Zia's GitHub Stats" /> -->
 </div>
 
