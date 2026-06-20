@@ -3,7 +3,7 @@
 <div>
   <img align="center" height="210" src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-top-langs.svg" alt="Zia's Top Languages" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" height="210" src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-stats.svg" alt="Zia's GitHub Stats" />
+  <!-- <img align="center" height="210" src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-stats.svg" alt="Zia's GitHub Stats" /> -->
 </div>
 
 <!--
