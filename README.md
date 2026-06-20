@@ -2,12 +2,12 @@
 
 <div>
   <a href="https://github.com/zzeeyyaa">
-    <img align="center" width="48%" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa?theme=dark-fairy&rpg=true&_t=1781976143265" alt="zzeeyyaa's GitHub Stats" />
-  </a>
+  <img align="center" width="48%" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa?theme=lavender-dark&rpg=true&rpg_class=Witch&_t=1781982088409" alt="zzeeyyaa's GitHub Stats" />
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/zzeeyyaa">
-    <img align="center" width="48%" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa/languages?theme=dark-fairy&layout=affinity&langs_count=8&_t=1781976238657" alt="zzeeyyaa's Top Languages" />
-  </a>
+  <img align="center" width="48%" src="http://localhost:3000/api/card/zzeeyyaa/languages?theme=lavender-dark&layout=affinity&langs_count=8&_t=1781982120697" alt="zzeeyyaa's Top Languages" />
+</a>
 </div>
 
 <!--
