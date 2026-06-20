@@ -14,7 +14,7 @@
 ##
 -->
 
-<img src="https://github.com/zzeeyyaa/zzeeyyaa/blob/output/github-contribution-grid-snake-dark.svg" alt="My snake" height="210">
+<img src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-contribution-grid-snake-dark.svg" alt="My snake" height="210">
 
 ### Take a break time:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/valorant.png" title = "Valorant" alt="" height="25" /></a>&nbsp;&nbsp;
