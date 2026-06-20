@@ -1,27 +1,31 @@
-name: generate animation
+name: generate profile assets
 
 on:
-  # run automatically every 12 hours
+  # Berjalan otomatis setiap 12 jam
   schedule:
     - cron: "0 */12 * * *" 
   
-  # allows to manually run the job at any time
+  # Memungkinkan kita memancing jalan manual kapan saja lewat tab Actions
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Terpicu setiap kali ada push di branch utama
   push:
     branches:
+    - main
     - master
-    
-  
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # STEP 1: Generate animasi Snake Game
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
@@ -29,30 +33,29 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        # uses: Platane/snk@v3
-        # with:
-        #     # github user name to read the contribution graph from (**required**)
-        #     # using action context var `github.repository_owner` or specified user
-        #     github_user_name: ${{ github.repository_owner }}
-        
-        #     # list of files to generate.
-        #     # one file per line. Each output can be customized with options as query string.
-        #     #
-        #     #  supported options:
-        #     #  - palette:           A preset of color, one of [github, github-dark, github-light]
-        #     #  - color_snake:       Color of the snake
-        #     #  - color_dots:        Coma separated list of dots color.
-        #     #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-        #     #                       Exactly 5 colors are expected.
-        #     #  - color_background:  Color of the background (for gif only)
-        #     outputs: |
-        #       dist/github-snake.svg
-        #       dist/github-snake-dark.svg?palette=github-dark
-        #       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # STEP 2: Generate GitHub Stats Card & Top Languages (Bar Chart) secara lokal
+      - name: generate github-readme-stats cards
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: zzeeyyaa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          
+          # Pengaturan untuk Top Languages (Bar Chart)
+          plugin_languages: yes
+          plugin_languages_ignored: css, html
+          plugin_languages_details: bytes-percentage, lines
+          plugin_languages_limit: 8
+          
+          # Output file tujuan di dalam folder dist
+          output_action: none
+          filename: dist/github-readme-stats.svg
+
+      # STEP 3: Push semua hasil (.svg) ke branch 'output'
+      - name: push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
