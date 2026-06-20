@@ -43,7 +43,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: zzeeyyaa
           template: classic
-          base: "" 
+          base: header
           config_timezone: Asia/Jakarta
           plugin_languages: yes
           plugin_languages_ignored: css, html
@@ -51,11 +51,12 @@ jobs:
           plugin_languages_limit: 8
           output_action: none
           filename: github-top-langs.svg
-      # STEP 3.5: Pindahin hasil render metrics ke folder dist
+      # STEP 3.5: Pindahin hasil render metrics ke folder dist (pakai sudo karena folder dist dimiliki root)
       - name: Move metrics renders to dist
         run: |
-          mkdir -p dist
-          find /metrics_renders -name "*.svg" -exec cp {} dist/ \;
+          sudo mkdir -p dist
+          sudo find /metrics_renders -name "*.svg" -exec cp {} dist/ \;
+          sudo chmod -R a+rwX dist
           echo "Isi folder dist setelah dipindah:"
           ls -la dist/
       # STEP 4: Push semua hasil (.svg) ke branch 'output'
