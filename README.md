@@ -2,11 +2,11 @@
 
 <div>
   <a href="https://github.com/zzeeyyaa">
-  <img align="center" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa?theme=lavender-dark&rpg=true&rpg_class=Witch&_t=1781982088409" alt="zzeeyyaa's GitHub Stats" />
+  <img align="center"  src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa?theme=lavender-dark&rpg=true&rpg_class=Witch&_t=1781982088409" alt="zzeeyyaa's GitHub Stats" />
 </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/zzeeyyaa">
-  <img align="center" src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa/languages?theme=lavender-dark&layout=affinity&langs_count=8&_t=1781982177423" alt="zzeeyyaa's Top Languages" />
+  <img align="center"  src="https://dev-fairy-metrics.vercel.app/api/card/zzeeyyaa/languages?theme=lavender-dark&layout=affinity&langs_count=8&_t=1781982177423" alt="zzeeyyaa's Top Languages" />
 </a>
 </div>
 
@@ -18,7 +18,7 @@
 ##
 -->
 
-<img src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-contribution-grid-snake-dark.svg" alt="My snake" height="210">
+<img src="https://raw.githubusercontent.com/zzeeyyaa/zzeeyyaa/output/github-contribution-grid-snake-dark.svg" alt="My snake" width="100%">
 
 ### Take a break time:
 <a href=" " target="blank"><img align="center" src="https://github.com/fauziahmilda/fauziahmilda/blob/main/images/valorant.png" title = "Valorant" alt="" height="25" /></a>&nbsp;&nbsp;
